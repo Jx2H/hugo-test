@@ -1,4 +1,4 @@
 baseURL = 'http://example.org/'
 languageCode = 'en-us'
 title = '찍먹하는 사이트'
-theme = ["github.com/theNewDynamic/gohugo-theme-ananke"]
+theme = 'ananke'
