@@ -1,2 +1,4 @@
 .vscode/
-public/
+src/public/
+
+.hugo_build.lock
