@@ -1,7 +1,7 @@
 ---
 title: "이게 뭐지?1"
 date: 2023-05-05T00:41:49+09:00
-draft: true
+draft: false
 ---
 # 개요
 
